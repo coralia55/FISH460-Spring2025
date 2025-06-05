@@ -1,3 +1,3 @@
 # Data
 
-Host all of your data in this directory. This could include excel or .csv files as well as photos of your experiment.
+Contains excel file of glucose data from Weeks 1 and 2 of the experiment, as well as glucose assay results.
